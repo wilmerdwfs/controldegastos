@@ -1,0 +1,13 @@
+[02-Nov-2022 14:26:34 UTC] PHP Notice:  Undefined index: activity in /home/pisbmcqz/wilmeroviedo.com/controlgastos/validations/session.php on line 4
+[02-Nov-2022 14:26:34 UTC] PHP Notice:  Undefined index: user in /home/pisbmcqz/wilmeroviedo.com/controlgastos/components/saider.php on line 15
+[07-Nov-2022 18:04:14 UTC] PHP Notice:  Undefined index: activity in /home/pisbmcqz/wilmeroviedo.com/controlgastos/validations/session.php on line 4
+[07-Nov-2022 18:04:14 UTC] PHP Notice:  Undefined index: user in /home/pisbmcqz/wilmeroviedo.com/controlgastos/components/saider.php on line 15
+[08-Nov-2022 00:23:17 UTC] PHP Notice:  Undefined variable: datosC in /home/pisbmcqz/wilmeroviedo.com/controlgastos/http/invoices/nuevo.php on line 60
+[08-Nov-2022 00:24:19 UTC] PHP Notice:  Undefined variable: datosC in /home/pisbmcqz/wilmeroviedo.com/controlgastos/http/invoices/nuevo.php on line 60
+[08-Nov-2022 00:25:32 UTC] PHP Notice:  Undefined index: activity in /home/pisbmcqz/wilmeroviedo.com/controlgastos/validations/session.php on line 4
+[08-Nov-2022 00:25:32 UTC] PHP Notice:  Undefined index: user in /home/pisbmcqz/wilmeroviedo.com/controlgastos/components/saider.php on line 15
+[08-Nov-2022 00:25:33 UTC] PHP Notice:  Undefined index: activity in /home/pisbmcqz/wilmeroviedo.com/controlgastos/validations/session.php on line 4
+[08-Nov-2022 00:25:33 UTC] PHP Notice:  Undefined index: user in /home/pisbmcqz/wilmeroviedo.com/controlgastos/components/saider.php on line 15
+[08-Nov-2022 00:25:34 UTC] PHP Notice:  Undefined index: activity in /home/pisbmcqz/wilmeroviedo.com/controlgastos/validations/session.php on line 4
+[08-Nov-2022 00:25:34 UTC] PHP Notice:  Undefined index: user in /home/pisbmcqz/wilmeroviedo.com/controlgastos/components/saider.php on line 15
+[08-Nov-2022 00:55:30 UTC] PHP Notice:  Undefined variable: datosC in /home/pisbmcqz/wilmeroviedo.com/controlgastos/http/invoices/nuevo.php on line 60

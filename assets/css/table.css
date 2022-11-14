@@ -1,0 +1,36 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.containerTabla {
+  overflow-x:auto;
+}
+
+th {
+  font-size: 15px;
+  font-weight: 700;
+  color: #12253A;
+}
+
+td {
+ 
+  font-weight: 600;
+  color:#4E4E4E;
+ 
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  font-size:15px;
+}
+
+tr:nth-child(even) {
+  background-color: white;
+}
+
+tr:hover{
+  background-color:  #F5F5F5;
+}

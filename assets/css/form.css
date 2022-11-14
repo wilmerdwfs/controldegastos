@@ -1,0 +1,140 @@
+.container-button
+{
+	width: 100%;
+	padding-left: 15px;
+}
+
+.button
+{
+	/*#3597B8  #47BAE0*/
+  	background-color:  #47BAE0;
+	border: none;
+	padding: 10px 30px;
+	color: white;
+	font-weight: 700;
+	cursor: pointer;
+	transition: all 0.2s;
+	border: 1px solid #47BAE0;
+}
+
+.button:hover
+{
+   background-color: rgba(53, 151, 184,0.8);
+}
+
+.to-back{
+	background-color: #47BAE0;
+	height: 40px;
+	width: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 100px;
+	cursor: pointer;
+	margin-top: 20px;
+}
+
+
+.formulario {
+    background: #fff;
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+input
+{
+    width: calc(100% - 40px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    border: 1px solid #47BAE0;
+    font-size: 14px;
+    display: block;
+}
+
+
+.selectFrom
+{
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #47BAE0;
+    font-size: 14px;
+    width: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.select
+{
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    border: 1px solid #47BAE0;
+    font-size: 14px;
+}
+
+.grupo
+{
+   width: calc(100% - 20px);
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.grupo-3
+{
+   width:100%;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   transform: translateX(10px);
+}
+
+.grupo-2
+{
+   width:100%;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   transform: translateX(10px);
+}
+
+.grupo-1
+{
+   width:100%;
+   display: grid;
+   grid-template-columns: 1fr;
+   transform: translateX(10px);
+}
+
+.grupo-fila
+{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.grupo-campo{
+    display: flex;
+    flex-direction: column;
+}
+
+.alto-input
+{
+    height: 20px !important;
+    color: darkred;
+}
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+#container-dashboard{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.caja-dashboard{
+	display: flex;
+	background-color: #47BAE0;
+	width: 200px;
+	padding: 10px;
+	flex-direction: column;
+    color: white;
+    position: relative;
+}
+
+.caja-dashboard img {
+	position: absolute;
+	right: 10px;
+	top: 50%;
+	height: 50px;
+	opacity: 0.2;
+	color: #156A86;
+}
+
+.caja-dashboard:nth-child(2) {
+    background-color: #1F9EC8;
+}
+
+.caja-dashboard:nth-child(3) {
+    background-color: #068BB8;
+    /*background: linear-gradient(to right bottom,rgba(6, 139, 184, 0.5),rgba(6, 139, 184, 8),rgba(6, 139, 184, 1));*/
+}
+
+.caja-dashboard .caja h1 {
+	font-size: 25px;
+}
+
+.caja {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 130px;
+}
+
+#miChart{
+	margin-top: 60px;
+}
